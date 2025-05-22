@@ -1,0 +1,11 @@
+{
+  "name": "barrage",
+  "version": "1.0.0",
+  "description": "多平台弹幕抓取研究",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
